@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Dnp3riVFWeO6zKicxh9pn31z1p0ooItDDjtvF6SQm3A=",
+  "Source": "ServerSentEventsExample",
+  "BasePath": "_content/ServerSentEventsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
